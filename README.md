@@ -16,3 +16,9 @@ This is our code repository for our CFG Hackathon - Maia
 
 <img src="Maia_results.png" alt="Maia">
 
+<br>
+### Languages
+- HTML
+- Bootstrap 4
+- CSS
+- Python
