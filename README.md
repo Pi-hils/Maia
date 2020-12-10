@@ -1,4 +1,15 @@
 # codingsaveslives
-This is our code repository for our CFG Hackathon - Maia
+<strong>Maia:</strong> 'love' and 'mother' <br>
 
-The premise is to provide a resource were people can find resources and support tailored to their requirements.
+The name <i>Maia</i> was specially chosen to create ambiguity. Maia seems like a generic or even a foreign name so an abuser would not easily conclude what their victim is doing. <br>
+Additionally, we wanted the name to have a hidden and deep meaning hence the name Maia - <i>Mother, love.</i>
+
+
+### Mission
+Our mission for this project was to create a safe platform where victims of domestic abuse can go and get help. This directory leads a person to specific organisations based on the requirements they chose.
+<br>
+This is our code repository for our CFG Hackathon - Maia
+<br>
+
+
+
